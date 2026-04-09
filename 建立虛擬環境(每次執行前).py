@@ -5,7 +5,7 @@
 #cd C:\project_linpeichun54321
 
 # 2️⃣ 建立虛擬環境
-#C:\Users\linpeichunhappy\AppData\Local\Programs\Python\Python312\python.exe -m venv venv
+#C:\Users\FM_pc\.local\bin\python3.14.exe -m venv venv
 
 # 3️⃣ 啟動虛擬環境
 #.\venv\Scripts\activate
